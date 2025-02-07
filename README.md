@@ -1,4 +1,4 @@
-# Python Chat Application with MongoDB
+# Python Chat Application with MongoDB - TEST
 
 A real-time chat application built with Python, featuring user authentication, message persistence, and a graphical user interface. The application uses MongoDB for storing user data and chat history.
 
